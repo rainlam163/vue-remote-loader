@@ -1,0 +1,19 @@
+{
+  "name": "vue-remote-loader",
+  "version": "1.0.0",
+  "description": "vue组件远程加载器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue动态组件",
+    "vue远程组件",
+    "动态组件",
+    "远程组件",
+    "vue",
+    "loader"
+  ],
+  "author": "林宇",
+  "license": "ISC"
+}
